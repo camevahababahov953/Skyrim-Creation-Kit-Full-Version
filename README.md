@@ -243,4 +243,4 @@ This repository serves as the official landing page for Skyrim Creation Kit. The
 **Get the most recent version of Skyrim Creation Kit today!**
 
 ---
-**Last updated:** 2026-09-09 21:24:26 UTC
+**Last updated:** 2026-09-09 23:41:46 UTC
